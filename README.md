@@ -1,7 +1,7 @@
 # School Canteen Daily Lunch Budget Evaluation
 
 ## Project Overview
-This project is a simplified daily lunch budget evaluator developed to meet the requirements for **Computer Science 2, Quarter 1 AA**. It is specifically designed to help **PSHS-BRC** scholars to manage their daily expenses and avoid overspending before the school week ends. 
+This project is a simplified daily lunch budget evaluator developed to meet the requirements for **Computer Science 2, Quarter 1 Project**. It is specifically designed to help **PSHS-BRC** scholars to manage their daily expenses and avoid overspending before the school week ends. 
 
 ## Features
 - **Budget and Cost Entrry**:
