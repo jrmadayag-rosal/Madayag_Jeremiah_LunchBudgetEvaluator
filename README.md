@@ -29,7 +29,9 @@ This project is a simplified daily lunch budget evaluator developed to meet the 
 
 ## Author
 **Name:** Jeremiah R. Madayag
+
 **Section:** 8-Rosal
+
 **School Year:** 2026-2027
 
   
